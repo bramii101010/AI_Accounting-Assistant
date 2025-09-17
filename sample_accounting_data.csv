@@ -1,0 +1,21 @@
+transaction_id,date,vendor,amount,description,employee_contact,account_number
+TXN-001,2024-01-15,Office Supplies Inc,245.67,Office supplies purchase,john.doe@company.com,
+TXN-002,2024-01-16,Tech Solutions LLC,1250.00,Software licensing,555-123-4567,8876543210
+TXN-003,2024-01-17,Office Supplies Inc,245.67,Office supplies purchase,jane.smith@company.com,
+TXN-004,2024-01-18,Consulting Services,5000.00,Q1 consulting services,bob.wilson@company.com,1234567890
+TXN-005,2024-01-19,Utilities Co,892.34,Monthly electricity bill,,7654321098
+TXN-006,2024-01-20,Marketing Agency,3500.00,Digital marketing campaign,alice.johnson@company.com,
+TXN-007,2024-01-21,Office Supplies Inc,245.67,Office supplies purchase,mike.brown@company.com,
+TXN-008,2024-01-22,Travel Services,-150.00,Refund for cancelled trip,carol.davis@company.com,5555666677
+TXN-009,2024-01-23,Equipment Rental,750.00,Monthly equipment rental,,
+TXN-010,2024-01-24,Legal Services,2800.00,Contract review services,david.miller@company.com,9988776655
+TXN-011,2024-01-25,Catering Co,450.00,Team lunch catering,555-987-6543,
+TXN-012,2024-01-26,Insurance Provider,1200.00,Monthly insurance premium,,3344556677
+TXN-013,2024-01-27,Tech Solutions LLC,25000.00,Major system upgrade,tom.anderson@company.com,
+TXN-014,2024-01-28,Office Supplies Inc,89.99,Printer cartridges,sara.taylor@company.com,
+TXN-015,2024-01-29,Maintenance Services,320.00,HVAC maintenance,123-456-7890,
+TXN-016,2024-01-30,Payroll Processing,1500.00,Monthly payroll services,hr@company.com,2233445566
+TXN-017,2024-02-01,Security Services,800.00,Monthly security services,,
+TXN-018,2024-02-02,Office Supplies Inc,245.67,Office supplies purchase,jenny.clark@company.com,
+TXN-019,2024-02-03,Training Provider,2200.00,Employee training program,training@company.com,
+TXN-020,2024-02-04,Waste Management,175.50,Monthly waste collection,,1122334455
